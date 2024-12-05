@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wedge22
-- 👀 I’m interested in Splunk, Ansible, Open Telemetry and Python and basically getting data and doing something useful with it.
+- 👀 I’m interested in Splunk, Kubernetes, Open Telemetry, and automation, basically getting data and doing something useful with it.
 - 🌱 I enjoy learning new technologies 
 - 📫 How to reach me, use this email ksh78@pm.me
 
